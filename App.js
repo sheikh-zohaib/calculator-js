@@ -1,4 +1,6 @@
+
 let screen = document.getElementById("screen");
+
 function calc(val){
   if(val == "C"){
     screen.value = "";
